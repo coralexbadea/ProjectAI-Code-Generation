@@ -1,0 +1,23 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch== 1.9.1+cpu
+Gunicorn
+Babel
+Flask-Babel
+Flask-MySQL
+Flask-Table
+lxml
+flask_cors
+pytz
+six
+Werkzeug
+flask
+Flask-SQLAlchemy
+flask-login
+mysqlclient
+catalogue
+numpy
+gc-python-utils
+spacy==2.3.5
+torchtext==0.10.1
+psycopg2
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
